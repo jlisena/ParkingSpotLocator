@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ParkingSpotLocator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyDCyxdKaOhhxO432PSeflgfqNDkGbDVhto</string>
+    <string name="preferred_parking_lot_1">Preferred Parking Lot #1:</string>
+    <string name="preferred_parking_lot_2">Preferred Parking Lot #2:</string>
+    <string name="preferred_parking_lot_3">Preferred Parking Lot #3:</string>
+    <string name="alert_status">Notifications</string>
+    <string name="tts">Text-To-Speech</string>
+    <string name="mapsBtn">Start Maps View</string>
+    <string name="update">Update</string>
+    <string name="title">ParkingSpotLocator</string>
+    <string name="logo_desc">logo</string>
+    <string name="backToMain">Back</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_choice_1">First Preference:</string>
+    <string name="settings_choice_2">Second Preference:</string>
+    <string name="settings_choice_3">Third Preference:</string>
+    <string name="user_preferences">User Preferences</string>
+    <string name="disclaimer">Disclaimer:</string>
+    <string name="disclaimer_desc">Below are the options used in determining what parking lot should be recommended to you. Please choose your personal preference based on the order of importance.</string>
+    <string-array name="parking_lots">
+        <item>None</item>
+        <item>Lot 47 (Taylor)</item>
+        <item>Lot 37 (AGBC)</item>
+        <item>Lot 24</item>
+    </string-array>
+    <string-array name="user_choices">
+        <item>None</item>
+        <item>Parking Lot</item>
+        <item>Lot Distance</item>
+        <item>Spots Available</item>
+    </string-array>
+</resources>

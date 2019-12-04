@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37676767767",
+    "firebase_url": "https://decent-trail-243702.firebaseio.com",
+    "project_id": "decent-trail-243702",
+    "storage_bucket": "decent-trail-243702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37676767767:android:30ead1fa33f052f1",
+        "android_client_info": {
+          "package_name": "com.example.parkingspotlocatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37676767767-n06f35cvn8ichafu1ab5a0gm5038rk7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkingspotlocatorapp",
+            "certificate_hash": "66777712791b511896c08d9f0f86a635bc1d3fb5"
+          }
+        },
+        {
+          "client_id": "37676767767-anamvr74nmhqtp9r1rgkv58nai2hc5b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnEZzzxZ9xIwbrnuww4aE1-sVFbGkf2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37676767767-anamvr74nmhqtp9r1rgkv58nai2hc5b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
